@@ -5,4 +5,6 @@ Yes, this is device specific. This app only works for iPhone3,1 iOS 7.1.2. It re
 
 Also requires kloader to work.
 
+Thanks to @f4bul1z3r on Twitter for the runasroot binary used in this app!
+
 Any questions, talk to me on Twitter @bellis1000
